@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4181",
+  "folder": "YouTube__watch_20260515082117_4bc577",
+  "base_name": "Ash_-_Live_at_Bonjuk_Bay_sWOrd50HYa4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/siravehi/YouTube/releases/tag/co-releases-v1-4181",
+  "files": [
+    {
+      "name": "Ash_-_Live_at_Bonjuk_Bay_sWOrd50HYa4_1080p.mp4",
+      "url": "https://github.com/siravehi/YouTube/releases/download/co-releases-v1-4181/Ash_-_Live_at_Bonjuk_Bay_sWOrd50HYa4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/siravehi/YouTube/releases/assets/420851513",
+      "id": 420851513,
+      "size": 1652800915,
+      "download_count": 0
+    }
+  ]
+}
