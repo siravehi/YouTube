@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5833",
+  "folder": "YouTube__watch_20260515081559_95f60a",
+  "base_name": "hzXPsWGhxSY_hzXPsWGhxSY_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/siravehi/YouTube/releases/tag/co-releases-v1-5833",
+  "files": [
+    {
+      "name": "hzXPsWGhxSY_hzXPsWGhxSY_1080p.mp4",
+      "url": "https://github.com/siravehi/YouTube/releases/download/co-releases-v1-5833/hzXPsWGhxSY_hzXPsWGhxSY_1080p.mp4",
+      "api_url": "https://api.github.com/repos/siravehi/YouTube/releases/assets/420847708",
+      "id": 420847708,
+      "size": 512659131,
+      "download_count": 0
+    }
+  ]
+}
